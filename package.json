@@ -1,0 +1,26 @@
+{
+  "name": "storevueapp",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.4.47",
+    "engines": "^0.4.0",
+    "font": "^0.0.4",
+    "latest": "^0.2.0",
+    "onboarding": "^2.0.3",
+    "vue": "^3.4.15",
+    "vue-router": "^4.3.0",
+    "vuetify": "^3.5.5"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}
